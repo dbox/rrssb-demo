@@ -1,0 +1,81 @@
+@import '_settings'
+
+normalize-css()
+base()
+typography()
+border-box-html()
+
+body
+  padding: 5%
+  font-size: 18px
+
+.buttons
+  margin-top: 5%
+
+.btn
+  button(#eee, large)
+  margin-right: 5px
+
+  +below(2)
+    width: 100%
+    margin-right: 0
+    margin-bottom: 10px
+
+hr
+  rule(rgba(black, .15), 1em)
+
+h1:first-of-type
+  margin: 0
+  line-height: 1em
+  letter-spacing: -.03em
+
+.share-container
+  group()
+  margin: 0 0 4% 0
+
+.label
+  float: left
+  display: block
+  width: 120px
+  font-size: 14px
+  padding-top: 10px
+  +below(1)
+    display: none
+
+.rrssb-buttons
+  float: left
+  width: calc(100% - 120px)
+  +below(1)
+    width: 100%
+  a, a:hover
+    border: none
+
+.share-container.all-sites
+  margin-bottom: 5%
+  group()
+
+  .label
+    display: none
+
+  .rrssb-buttons
+    width: 100%;
+
+.rrssb-preview
+  transition: all .2s ease;
+  float: right
+  height: auto
+  margin: 0 0 1% 1%
+  width: 40%
+
+  +below(1)
+    float: none
+    margin: 0 0 4% 0
+    width: 100%
+
+small
+  display: block
+  margin-top: 5%
+  font-size: 12px
+
+  a
+    bold()
