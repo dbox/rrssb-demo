@@ -1,5 +1,5 @@
 # RRSSB Demo Site
-Demo site for [[https://github.com/kni-labs/rrssb](https://github.com/kni-labs/rrssb)]
+Demo site for [Ridiculously Responsive Social Sharing Buttons](https://github.com/kni-labs/rrssb) which lives [here](http://kurtnoble.com/labs/rrssb/).
 
 ## Setup
 - make sure [node.js](http://nodejs.org) and [roots](http://roots.cx) are installed
