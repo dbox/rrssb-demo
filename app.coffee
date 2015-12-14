@@ -8,7 +8,7 @@ rimraf       = require 'rimraf'
 module.exports =
   ignores: [
     'bower.json',
-    'readme.md',
+    'README.md',
     '**/layout.*',
     '**/_*',
     '.gitignore',
