@@ -1,6 +1,11 @@
 {
   "name": "rrssb-demo",
   "description": "Demo site for RRSSB",
+  "license": "none",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kni-labs/rrssb-demo.git"
+  },
   "dependencies": {
     "autoprefixer-stylus": "0.5.x",
     "axis": "0.5.x",
@@ -11,7 +16,7 @@
     "jstransformer-marked": "^1.0.1",
     "marked": "^0.3.5",
     "rimraf": "^2.4.0",
-    "roots": "3.1.0",    
+    "roots": "^3.1.0",
     "rupture": "0.6.x",
     "stylus": "0.53.x"
   }
