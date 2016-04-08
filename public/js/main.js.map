@@ -1,1 +1,0 @@
-{"version":3,"file":"main.js","sourceRoot":"","sources":["/Users/danielbox/sites/dev/rrssb-demo/assets/js/main.coffee"],"names":[],"mappings":"AAAA;AAAA,EAAA,OAAO,CAAC,GAAR,CAAY,cAAZ,CAAA,CAAA;AAAA","sourcesContent":["console.log 'hello there!'"]}
