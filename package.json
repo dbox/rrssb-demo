@@ -18,6 +18,6 @@
     "rimraf": "^2.4.0",
     "roots": "4.0.x",
     "rupture": "0.6.x",
-    "stylus": "0.53.x"
+    "stylus": "0.54.5"
   }
 }
