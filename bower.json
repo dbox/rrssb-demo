@@ -12,10 +12,11 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "~2.1.4"
+    "jquery": "~2.1.4",
+    "rrssb": "^1.11.0"
   },
   "devDependencies": {
     "jquery": "~2.1.4",
-    "rrssb": "~1.10.x"
+    "rrssb": "~1.11.x"
   }
 }
