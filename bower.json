@@ -1,5 +1,5 @@
 {
-  "name": "roots-bower",
+  "name": "rrssb-demo",
   "authors": [
     "Daniel Box <danielbox@gmail.com>"
   ],
@@ -16,6 +16,6 @@
   },
   "devDependencies": {
     "jquery": "~2.1.4",
-    "rrssb": "~1.11.x"
+    "rrssb": "~1.x.x"
   }
 }
